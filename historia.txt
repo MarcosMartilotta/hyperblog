@@ -1,3 +1,4 @@
 Esta es una histira
 para el curso de platzi
-le borro la ultima linea
+el dia 14/3
+dejo la ultma linea y vuelvo a mandar a master a partir de la v2
